@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&text=Kumar%20Mayank&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=40" />
-</p>
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&text=Kumar%20Mayank&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=40"/>
+
+</div>
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=that-kumar-mayank&style=for-the-badge)
+
+</div>
 
 ## Hi there 👋
 
