@@ -27,6 +27,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🧠 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,dart,kotlin,html,css,react,nodejs,expressjs,flutter,mysql,mongodb,firebase,aws,azure,gcp,vercel,docker,kubernetes,git,github,gitlab,linux,vscode,androidstudio" />
+
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&reversal=true&textBg=false&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&reversal=true&textBg=false&section=footer" />
 </p>
