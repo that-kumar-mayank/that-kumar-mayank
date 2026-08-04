@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&reversal=true&textBg=false&section=footer" />
 </p>
