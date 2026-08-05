@@ -1,4 +1,11 @@
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hi+there!+I'm+Mayank." alt="Animated typing introduction for Mayank" />
+
+</div>
+
+
+<div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&text=Kumar%20Mayank&reversal=false&textBg=false&fontColor=ffffff&animation=fadeIn&section=header&fontAlignY=40"/>
 
@@ -9,8 +16,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=that-kumar-mayank&style=for-the-badge)
 
 </div>
-
-## Hi there 👋
 
 <!--
 **that-kumar-mayank/that-kumar-mayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,5 +41,7 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004FF9,100:00C6FF&height=250&reversal=true&textBg=false&section=footer" />
+
 </p>
